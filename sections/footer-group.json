@@ -14,12 +14,10 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "fc645871-d789-4cfa-8584-4f8a29b6ce92": {
-          "type": "image",
+        "brand_information_GHiG4t": {
+          "type": "brand_information",
           "settings": {
-            "image_width": 100,
-            "alignment": "center",
-            "url": "",
+            "show_social": true,
             "width_desktop": 3,
             "width_mobile": "2"
           }
@@ -56,7 +54,7 @@
         }
       },
       "block_order": [
-        "fc645871-d789-4cfa-8584-4f8a29b6ce92",
+        "brand_information_GHiG4t",
         "1c647602-cc00-4009-a058-976435c8ee9e",
         "link_list_LK9BNx",
         "24f208fd-0898-43eb-af23-d74f8420ab37"
