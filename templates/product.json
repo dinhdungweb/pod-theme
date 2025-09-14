@@ -304,9 +304,9 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Product info",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "library_books",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
