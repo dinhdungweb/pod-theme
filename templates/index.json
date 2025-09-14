@@ -49,7 +49,7 @@
       "settings": {
         "visibility": "always-display",
         "layout": "full_bleed",
-        "slide_height": "medium",
+        "slide_height": "adapt_image",
         "slider_visual": "dots",
         "desktop_pagination_position": "over",
         "auto_rotate": false,
