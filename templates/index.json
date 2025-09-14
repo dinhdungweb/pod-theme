@@ -224,51 +224,6 @@
         "custom_colors_solid_button_text": "#ffffff"
       }
     },
-    "newsletter_jaFFRj": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_tKWeNq": {
-          "type": "heading",
-          "settings": {
-            "title": "Get 10% off your first order!",
-            "title_highlight_color": "#6D388B",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_RDHRkJ": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Enter your email to get a -10% discount code now & to be the first to know about new collections and exclusive offers.<br/><br/></p>"
-          }
-        },
-        "email_form_6rFaH9": {
-          "type": "email_form",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading_tKWeNq",
-        "paragraph_RDHRkJ",
-        "email_form_6rFaH9"
-      ],
-      "name": "t:sections.newsletter.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "button_type": "arrow",
-        "button_label": "Sign up",
-        "button_style_secondary": false,
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52,
-        "custom_colors_background": "#FFFFFF",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff"
-      }
-    },
     "icon_bar_kGrYx7": {
       "type": "icon-bar",
       "blocks": {
@@ -323,7 +278,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Icon bar",
+        "title": "",
         "title_highlight_color": "#6D388B",
         "heading_size": "h1",
         "text": "",
@@ -362,6 +317,51 @@
         "custom_cards_colors_background": "#F3F3F3",
         "custom_cards_gradient_background": "",
         "custom_cards_colors_text": "#2E2A39"
+      }
+    },
+    "newsletter_jaFFRj": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_tKWeNq": {
+          "type": "heading",
+          "settings": {
+            "title": "Get 10% off your first order!",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_RDHRkJ": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Enter your email to get a -10% discount code now & to be the first to know about new collections and exclusive offers.<br/><br/></p>"
+          }
+        },
+        "email_form_6rFaH9": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_tKWeNq",
+        "paragraph_RDHRkJ",
+        "email_form_6rFaH9"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "button_type": "arrow",
+        "button_label": "Sign up",
+        "button_style_secondary": false,
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#121212",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff"
       }
     }
   },
