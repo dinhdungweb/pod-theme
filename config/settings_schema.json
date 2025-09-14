@@ -1,11 +1,11 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Shrine PRO",
+    "theme_name": "POD Theme Pro",
     "theme_version": "1.3.0",
-    "theme_author": "Shrine",
-    "theme_documentation_url": "https://dashboard.shrinesolutions.com/customer/help-center",
-    "theme_support_url": "https://shrinesolutions.com/pages/contact"
+    "theme_author": "Dinh Dung",
+    "theme_documentation_url": "https://dinhdung.com/customer/help-center",
+    "theme_support_url": "https://dinhdung.com/pages/contact"
   },
   {
     "name": "Authentication",
@@ -23,7 +23,7 @@
     "settings": [
       {
         "type": "paragraph",
-        "content": "Full theme guide can be viewed [here](https://dashboard.shrinesolutions.com/customer/help-center)."
+        "content": "Full theme guide can be viewed [here](https://dashboard.dinhdung.com/customer/help-center)."
       }
     ]
   },
