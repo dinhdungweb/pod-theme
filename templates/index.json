@@ -232,13 +232,13 @@
           "settings": {
             "title": "Get 10% off your first order!",
             "title_highlight_color": "#6D388B",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "paragraph_RDHRkJ": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Enter your email to get a -10% discount code now & to be the first to know about new collections and exclusive offers.<br/><br/></p>"
+            "text": "<p>Enter your email to get a -10% discount code now & to be the first to know about new collections and exclusive offers.</p>"
           }
         },
         "email_form_6rFaH9": {
