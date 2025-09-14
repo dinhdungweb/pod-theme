@@ -76,8 +76,8 @@
           "settings": {
             "text": "Welcome to our store",
             "text_alignment": "center",
-            "mobile_text_size": 16,
-            "desktop_text_size": 16,
+            "mobile_text_size": 15,
+            "desktop_text_size": 15,
             "icon": "storefront",
             "filled_icon": false,
             "mobile_icon_size": 20,
