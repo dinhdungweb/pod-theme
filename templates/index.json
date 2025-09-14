@@ -82,14 +82,16 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
-            "custom_title": ""
+            "custom_image": "shopify://shop_images/Collection_copy_3Collection.webp",
+            "custom_title": "Bootleg"
           }
         },
         "featured_collection_eGgqhm": {
           "type": "featured_collection",
           "settings": {
             "collection": "",
-            "custom_title": ""
+            "custom_image": "shopify://shop_images/Collection_copy_2Collection.webp",
+            "custom_title": "Digital Download"
           }
         }
       },
